@@ -11,7 +11,7 @@ from sklearn.tree import plot_tree
 
 
 # data
-df = pd.read_csv("../DATA/penguins_size.csv")
+df = pd.read_csv("penguins_size.csv")
 df.head()
 
 # Missing Data
